@@ -1,3 +1,4 @@
+All this can be found on the Discord Website - [Markdown Text 101 (Chat Formatting: Bold, Italic, Underline) ](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline)
 Text Formatting
 Italics 	
 *italics* or _italics_ 	
